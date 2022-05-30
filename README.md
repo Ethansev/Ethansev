@@ -17,6 +17,7 @@ I'm a Full Stack Engineer, graduated with a bachelor's degree in Computer Inform
     <li>Portfolio Website</li>
     <li>Personal Blog</li>
     <li>Yelp Clone (CRUD)</li>
+    <li>Netflix Clone (using SQL to populate)</li>
 </ul>
 
 ### 🌱 I'm learning
