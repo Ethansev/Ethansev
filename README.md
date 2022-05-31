@@ -9,23 +9,19 @@ I'm a Full Stack Engineer, graduated with a bachelor's degree in Computer Inform
 
 | **Back-End** |
 | ----------- |
-| <img src="https://img.shields.io/badge/node-white?style=for-the-badge&logo=node.js&logoColor=%#339933" alt="Node"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
-<img src="https://img.shields.io/badge/-Express-white?style=for-the-badge" alt="Express"/> 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services"/>|
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ### 🔭 Projects I'm working on:
 <ul>
+    <li>Yelp Clone (Bootstrap/MongoDB)</li>
     <li>Portfolio Website</li>
     <li>Development Blog</li>
-    <li>Yelp Clone (Bootstrap/MongoDB)</li>
     <li>Netflix Clone (using SQL to populate content)</li>
 </ul>
 
 ### 🌱 I'm learning
-<ul>
-    <li>React</li>
-</ul>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **📫 Reach me at**
 https://www.linkedin.com/in/ethan-n-63512b116/
