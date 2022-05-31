@@ -29,6 +29,8 @@ I'm a Full Stack Engineer :)
 **📫 Reach me at**
 https://www.linkedin.com/in/ethan-win
 
+**✨ View my designs**
+https://dribbble.com/EthanFromTinder
 
 <!--
 **Ethansev/Ethansev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
