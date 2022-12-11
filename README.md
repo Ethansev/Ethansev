@@ -27,7 +27,6 @@ I'm Ethan, a full stack engineer :) This is where I test random ideas and contri
 - **Yelp Clone** (Bootstrap/MongoDB)
 - **Group Bill Calculator** (React)
 - **Development Blog** (Static CMS)
-- **Netflix Clone** (React/Postgres)
 - **Portfolio Website** (Vue)
 
 
