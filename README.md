@@ -36,6 +36,7 @@ I'm Ethan, a full stack engineer :) This is where I test random ideas and contri
 
 ## 📫 Reach me at:
 https://www.linkedin.com/in/ethan-win
+
 ethanbutformal@gmail.com
 
 https://dribbble.com/EthanFromTinder
