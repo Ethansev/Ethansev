@@ -8,7 +8,7 @@ Hi I'm Ethan! This is where I play with ideas and contribute to open-source.
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ##  Active Projects 🔭
-- [**VirtualAgents360**](https://github.com/Ethansev/virtualagents360) (Office management web app written in NextJs/Typescript)
+- [**VirtualAgents360**](https://github.com/Ethansev/virtualagents360) (Office management web app written in NextJs/Typescript/Node.js)
 - **TravelMate** (Travel app that lets users research with a spreadsheet schema, create itineraries, and track expenses. Building with Next.js and Postgresql)
 - **Yelp Clone** (Try Svelte and use NPS API)
 - **Portfolio Website** (Nextjs or Astro)
