@@ -16,7 +16,7 @@ Archive:
 - [**VirtualAgents360**](https://github.com/Ethansev/virtualagents360) (Office management web app written in NextJs/Typescript/Node.js)
 - **TravelMate** (Travel app that lets users research with a spreadsheet schema, create itineraries, and track expenses. Building with Next.js and Postgresql)
 - **Yelp Clone** (Try Svelte and use NPS API)
-- **Portfolio Website** (Nextjs or Astro)
+- **Portfolio Website** (NextJs with Notion for blogs)
 - **Johnny's Art Porfolio** (Astro)
 
 ## 
