@@ -1,4 +1,5 @@
-Hi I'm Ethan! This is where I play with ideas and contribute to open-source. 
+# Hi I'm Ethan! 
+**I explore ideas and contribute to interesting projects here. Also open to collaboration.**
 
 ##  Currently Learning 🌱
 
@@ -15,7 +16,7 @@ Archive:
 ##  Active Projects 🔭
 - [**VirtualAgents360**](https://github.com/Ethansev/virtualagents360) (Office management web app written in NextJs/Typescript/Node.js)
 - **TravelMate** (Travel app that lets users research with a spreadsheet schema, create itineraries, and track expenses. Building with Next.js and Postgresql)
-- **Yelp Clone** (Try Svelte and use NPS API)
+- **Yelp Clone** (Svelte and NPS API)
 - **Portfolio Website** (NextJs with Notion for blogs)
 - **Johnny's Art Porfolio** (Astro)
 
@@ -24,7 +25,7 @@ ethanbutformal@gmail.com
 
 https://dribbble.com/EthanFromTinder
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethansev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethansev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
