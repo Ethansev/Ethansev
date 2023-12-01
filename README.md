@@ -23,7 +23,7 @@ Archive:
 ## 
 ethanbutformal@gmail.com
 
-https://dribbble.com/EthanFromTinder
+<!-- https://dribbble.com/EthanFromTinder -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethansev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
